@@ -1,0 +1,23 @@
+﻿  Editor.cpp
+c:\users\blatt\onedrive\desktop\project2\project2\linkedlist.h(91): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\blatt\onedrive\desktop\project2\project2\linkedlist.h(103): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\blatt\onedrive\desktop\project2\project2\linkedlist.inl(36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\blatt\onedrive\desktop\project2\project2\binarytreeinterface.h(65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\blatt\onedrive\desktop\project2\project2\binarytreeinterface.h(84): note: see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+c:\users\blatt\onedrive\desktop\project2\project2\binarynodetree.h(85): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\blatt\onedrive\desktop\project2\project2\binarynodetree.h(104): note: see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+c:\users\blatt\onedrive\desktop\project2\project2\binarynodetree.h(90): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\blatt\onedrive\desktop\project2\project2\binarynodetree.inl(295): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\blatt\onedrive\desktop\project2\project2\binarynodetree.inl(329): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\blatt\onedrive\desktop\project2\project2\binarysearchtree.h(73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\blatt\onedrive\desktop\project2\project2\binarysearchtree.h(92): note: see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+c:\users\blatt\onedrive\desktop\project2\project2\binarysearchtree.h(74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\blatt\onedrive\desktop\project2\project2\binarysearchtree.h(78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\blatt\onedrive\desktop\project2\project2\binarysearchtree.inl(226): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\blatt\onedrive\desktop\project2\project2\binarysearchtree.inl(236): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\blatt\onedrive\desktop\project2\project2\binarysearchtree.inl(261): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\blatt\onedrive\desktop\project2\project2\editor.cpp(102): warning C4101: 'j': unreferenced local variable
+c:\users\blatt\onedrive\desktop\project2\project2\editor.cpp(196): warning C4101: 'coord': unreferenced local variable
+c:\users\blatt\onedrive\desktop\project2\project2\editor.cpp(233): warning C4018: '<=': signed/unsigned mismatch
+  Command.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project2.vcxproj -> C:\Users\blatt\OneDrive\Desktop\Project2\Debug\Project2.exe
